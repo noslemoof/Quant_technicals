@@ -4,7 +4,8 @@ Hello, everyone. Welcome to my publicly available codes for modelling various fi
 However, with that I would hope that my work to be respected and that you wouldnt directly copy my source code and claim ownership of it
 
 ## Current Agenda
-1. ARIMA
-2. GARCH
-3. Blach Scholes option pricing
-4. Dynamic order implementation
+1. ARIMA (DONE)
+2. MPT (DONE)
+3. GARCH
+4. Blach Scholes option pricing
+5. Dynamic order implementation
