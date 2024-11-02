@@ -6,6 +6,6 @@ Due ownership of code by **FOO MELSON**
 ## Current Agenda
 1. ARIMA (DONE)
 2. MPT (DONE)
-3. GARCH
-4. Blach Scholes option pricing
-5. Dynamic order implementation
+3. Blach Scholes option pricing -> in progress
+4. GARCH
+6. Dynamic order implementation
